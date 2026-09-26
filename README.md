@@ -44,7 +44,7 @@ URL Ngrok aktif: `https://womb-catnip-unweave.ngrok-free.dev`
 **Tech Stack**
 * **Frontend:** Flutter, Dart
 * **Keamanan:** JWT (JSON Web Token)
-* **Pemetaan:** `flutter_map` (OpenStreetMap - Bebas API Key)
+* **Pemetaan:** `flutter_map` (OpenStreetMap)
 * **Kamera & Lokasi:** `image_picker`, `geolocator`
 * **Penyimpanan Lokal:** Shared Preferences
 * **Backend:** Node.js, REST API, SQLite
